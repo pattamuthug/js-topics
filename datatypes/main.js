@@ -42,7 +42,7 @@ console.log(h,typeof h);
 
 // OBJECT
 const person={
-    name:"subbu",
+    name:"muthu",
     age:"23"
 }
 console.log(person,typeof person);
